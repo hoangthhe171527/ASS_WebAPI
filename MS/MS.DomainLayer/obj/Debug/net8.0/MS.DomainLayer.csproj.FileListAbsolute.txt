@@ -1,0 +1,17 @@
+C:\Users\rog\source\repos\MS\MS.DomainLayer\bin\Debug\net8.0\MS.DomainLayer.deps.json
+C:\Users\rog\source\repos\MS\MS.DomainLayer\bin\Debug\net8.0\MS.DomainLayer.runtimeconfig.json
+C:\Users\rog\source\repos\MS\MS.DomainLayer\bin\Debug\net8.0\MS.DomainLayer.dll
+C:\Users\rog\source\repos\MS\MS.DomainLayer\bin\Debug\net8.0\MS.DomainLayer.pdb
+C:\Users\rog\source\repos\MS\MS.DomainLayer\bin\Debug\net8.0\MS.InfrastructureLayer.dll
+C:\Users\rog\source\repos\MS\MS.DomainLayer\bin\Debug\net8.0\MS.InfrastructureLayer.pdb
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.csproj.AssemblyReference.cache
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.AssemblyInfoInputs.cache
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.AssemblyInfo.cs
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.Domai.98F8EA20.Up2Date
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.dll
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\refint\MS.DomainLayer.dll
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.pdb
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\MS.DomainLayer.genruntimeconfig.cache
+C:\Users\rog\source\repos\MS\MS.DomainLayer\obj\Debug\net8.0\ref\MS.DomainLayer.dll

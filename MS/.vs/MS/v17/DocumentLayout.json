@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rog\\source\\repos\\MS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664763A3-9CAD-4B3E-B3FE-F4D7C2A0118E}|MS.WebAPI\\MS.WebAPI.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664763A3-9CAD-4B3E-B3FE-F4D7C2A0118E}|MS.WebAPI\\MS.WebAPI.csproj|solutionrelative:ms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.domainlayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|solutionrelative:ms.domainlayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.domainlayer\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|solutionrelative:ms.domainlayer\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664763A3-9CAD-4B3E-B3FE-F4D7C2A0118E}|MS.WebAPI\\MS.WebAPI.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664763A3-9CAD-4B3E-B3FE-F4D7C2A0118E}|MS.WebAPI\\MS.WebAPI.csproj|solutionrelative:ms.webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.domainlayer\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|solutionrelative:ms.domainlayer\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.domainlayer\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|solutionrelative:ms.domainlayer\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664763A3-9CAD-4B3E-B3FE-F4D7C2A0118E}|MS.WebAPI\\MS.WebAPI.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664763A3-9CAD-4B3E-B3FE-F4D7C2A0118E}|MS.WebAPI\\MS.WebAPI.csproj|solutionrelative:ms.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\context\\mscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\context\\mscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\configurations\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\configurations\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.domainlayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CE4C6-EC85-4CBB-82A8-60C81D8510CF}|MS.DomainLayer\\MS.DomainLayer.csproj|solutionrelative:ms.domainlayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|c:\\users\\rog\\source\\repos\\ms\\ms.infrastructurelayer\\migrations\\20241215180859_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C846A6E8-9879-45F2-85F9-B84FC089740B}|MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj|solutionrelative:ms.infrastructurelayer\\migrations\\20241215180859_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MS.WebAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MS.WebAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:44:37.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "MS.DomainLayer\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "MS.DomainLayer\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:37:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "MS.DomainLayer\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Services\\StudentService.cs",
+              "RelativeToolTip": "MS.DomainLayer\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:37:10.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "MS.DomainLayer\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "MS.DomainLayer\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:35:30.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "MS.DomainLayer\\Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "MS.DomainLayer\\Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:34:20.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:44.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:38.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:20:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:20:26.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:16:35.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:16:16.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241215180859_init.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Migrations\\20241215180859_init.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Migrations\\20241215180859_init.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Migrations\\20241215180859_init.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Migrations\\20241215180859_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:08:59.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MS.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\Program.cs",
+              "RelativeToolTip": "MS.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:07:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MS.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\appsettings.json",
+              "RelativeToolTip": "MS.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T18:05:52.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MSContext.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Context\\MSContext.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Context\\MSContext.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Context\\MSContext.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Context\\MSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:02:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Configurations\\StudentConfigurations.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Configurations\\StudentConfigurations.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Configurations\\StudentConfigurations.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Configurations\\StudentConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:29:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Entities\\Student.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:05:43.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "MS.DomainLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\Class1.cs",
+              "RelativeToolTip": "MS.DomainLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:03:30.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "MS.InfrastructureLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\Class1.cs",
+              "RelativeToolTip": "MS.InfrastructureLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:02:31.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
