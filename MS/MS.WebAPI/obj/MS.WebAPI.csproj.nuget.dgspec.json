@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\MS.WebAPI.csproj": {}
+    "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.WebAPI\\MS.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj": {
+    "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj",
+        "projectUniqueName": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj",
         "projectName": "MS.DomainLayer",
-        "projectPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj",
-        "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\obj\\",
+        "projectPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
-                "projectPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj"
+              "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
+                "projectPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj"
               }
             }
           }
@@ -91,21 +91,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
+    "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
+        "projectUniqueName": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
         "projectName": "MS.InfrastructureLayer",
-        "projectPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
-        "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\obj\\",
+        "projectPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -178,21 +178,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\MS.WebAPI.csproj": {
+    "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.WebAPI\\MS.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\MS.WebAPI.csproj",
+        "projectUniqueName": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.WebAPI\\MS.WebAPI.csproj",
         "projectName": "MS.WebAPI",
-        "projectPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\MS.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.WebAPI\\obj\\",
+        "projectPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.WebAPI\\MS.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -207,11 +207,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj"
+              "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj": {
+                "projectPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.DomainLayer\\MS.DomainLayer.csproj"
               },
-              "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
-                "projectPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj"
+              "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
+                "projectPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj"
               }
             }
           }
@@ -279,7 +279,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {}
+    "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
+    "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
+        "projectUniqueName": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
         "projectName": "MS.InfrastructureLayer",
-        "projectPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
-        "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rog\\source\\repos\\MS\\MS.InfrastructureLayer\\obj\\",
+        "projectPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\MS.InfrastructureLayer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\SE\\Semester 6\\ASS_WebAPI\\MS\\MS.InfrastructureLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

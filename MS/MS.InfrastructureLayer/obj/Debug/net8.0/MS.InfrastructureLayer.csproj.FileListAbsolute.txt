@@ -12,3 +12,18 @@ C:\Users\rog\source\repos\MS\MS.InfrastructureLayer\obj\Debug\net8.0\refint\MS.I
 C:\Users\rog\source\repos\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.pdb
 C:\Users\rog\source\repos\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.genruntimeconfig.cache
 C:\Users\rog\source\repos\MS\MS.InfrastructureLayer\obj\Debug\net8.0\ref\MS.InfrastructureLayer.dll
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\bin\Debug\net8.0\MS.InfrastructureLayer.deps.json
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\bin\Debug\net8.0\MS.InfrastructureLayer.runtimeconfig.json
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\bin\Debug\net8.0\MS.InfrastructureLayer.dll
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\bin\Debug\net8.0\MS.InfrastructureLayer.pdb
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.csproj.AssemblyReference.cache
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.AssemblyInfoInputs.cache
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.AssemblyInfo.cs
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.csproj.CoreCompileInputs.cache
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.sourcelink.json
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.dll
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\refint\MS.InfrastructureLayer.dll
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.pdb
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\MS.InfrastructureLayer.genruntimeconfig.cache
+D:\SE\Semester 6\ASS_WebAPI\MS\MS.InfrastructureLayer\obj\Debug\net8.0\ref\MS.InfrastructureLayer.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MS.DomainLayer
-build_property.ProjectDir = C:\Users\rog\source\repos\MS\MS.DomainLayer\
+build_property.ProjectDir = D:\SE\Semester 6\ASS_WebAPI\MS\MS.DomainLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
